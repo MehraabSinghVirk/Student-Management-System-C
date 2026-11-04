@@ -1,0 +1,17 @@
+
+# Compiled executable files
+*.exe
+*.o
+*.out
+
+# Generated student database
+students.dat
+
+# Generated academic reports
+student_report.txt
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
